@@ -1,8 +1,8 @@
-# Iterating Over Hashes
+# Iterating Over Hashes - Apples and Holidays Lab
 
-## Objectives
+## Learning Goals
 
-1. Iterate over nested, or multidimensional, hashes.
+- Iterate over nested — or multidimensional — hashes
 
 ## The Holiday Suppliers
 
